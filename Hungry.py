@@ -7,4 +7,4 @@ else:
         print("drink water")
         print("drink soda as well")
         print("drink cola as well")
-        print("hello parties")
+        print("hello parties bolo")
